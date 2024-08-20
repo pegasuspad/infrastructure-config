@@ -10,11 +10,11 @@
   "iothread": true
   "label": null
   "mountpoint": "/var/lib/postgresql"
-  "path_in_datastore": "102/vm-102-disk-0.qcow2"
+  "path_in_datastore": "100/vm-100-disk-0.qcow2"
   "read_only": null
   "replicate": true
   "serial": ""
   "size": 20
   "speed": []
   "ssd": false
-"vmid": "102"
+"vmid": "100"
