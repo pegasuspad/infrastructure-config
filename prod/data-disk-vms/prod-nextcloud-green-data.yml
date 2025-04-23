@@ -14,7 +14,7 @@
   "read_only": null
   "replicate": true
   "serial": ""
-  "size": 125
+  "size": 525
   "speed": []
   "ssd": true
 - "aio": "io_uring"
