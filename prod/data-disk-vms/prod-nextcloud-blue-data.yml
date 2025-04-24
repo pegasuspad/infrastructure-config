@@ -35,4 +35,22 @@
   "size": 10
   "speed": []
   "ssd": true
+- "aio": "io_uring"
+  "backup": true
+  "cache": "none"
+  "datastore_id": "main-vms"
+  "discard": "ignore"
+  "file_format": "raw"
+  "file_id": ""
+  "interface": "scsi2"
+  "iothread": true
+  "label": null
+  "mountpoint": "/var/lib/backup"
+  "path_in_datastore": "vm-112-disk-2"
+  "read_only": null
+  "replicate": true
+  "serial": ""
+  "size": 525
+  "speed": []
+  "ssd": true
 "vmid": "112"
