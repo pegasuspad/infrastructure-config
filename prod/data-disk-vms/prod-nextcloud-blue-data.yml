@@ -10,7 +10,7 @@
   "iothread": true
   "label": null
   "mountpoint": "/var/lib/nextcloud"
-  "path_in_datastore": "vm-103-disk-0"
+  "path_in_datastore": "vm-112-disk-0"
   "read_only": null
   "replicate": true
   "serial": ""
@@ -28,11 +28,11 @@
   "iothread": true
   "label": null
   "mountpoint": "/var/lib/mysql"
-  "path_in_datastore": "vm-103-disk-1"
+  "path_in_datastore": "vm-112-disk-1"
   "read_only": null
   "replicate": true
   "serial": ""
   "size": 10
   "speed": []
   "ssd": true
-"vmid": "103"
+"vmid": "112"
