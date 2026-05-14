@@ -1,0 +1,21 @@
+"attached_disks":
+- "aio": "io_uring"
+  "backup": true
+  "cache": "none"
+  "datastore_id": "main-vms"
+  "discard": "ignore"
+  "file_format": "raw"
+  "file_id": ""
+  "import_from": ""
+  "interface": "scsi0"
+  "iothread": true
+  "label": null
+  "mountpoint": "/var/lib/docker"
+  "path_in_datastore": "vm-115-disk-0"
+  "read_only": null
+  "replicate": true
+  "serial": ""
+  "size": 100
+  "speed": []
+  "ssd": true
+"vmid": "115"
