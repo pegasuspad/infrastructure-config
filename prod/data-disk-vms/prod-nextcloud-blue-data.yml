@@ -3,7 +3,7 @@
   "backup": true
   "cache": "none"
   "datastore_id": "main-vms"
-  "discard": "ignore"
+  "discard": "on"
   "file_format": "raw"
   "file_id": ""
   "import_from": ""
@@ -22,7 +22,7 @@
   "backup": true
   "cache": "none"
   "datastore_id": "main-vms"
-  "discard": "ignore"
+  "discard": "on"
   "file_format": "raw"
   "file_id": ""
   "import_from": ""
