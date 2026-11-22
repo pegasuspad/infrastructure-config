@@ -1,0 +1,5 @@
+"mount_points":
+- "mountpoint": "/etc/letsencrypt"
+  "read_only": false
+  "volume": "main-containers:subvol-116-disk-1"
+"vmid": 116
